@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "67c3cbf2d95005141f86933f"
+  },
+  "username": "Vothanh0607",
+  "email": " vothanh0607@gmail.com",
+  "password": "vothanh123",
+  "created_at": {
+    "$date": "2024-09-30T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ca9b3698b278f3cdd2796f"
+  },
+  "username": "Lu Hong Quan",
+  "email": "  luhongquan456@gmail.com",
+  "password": " quan123",
+  "created_at": {
+    "$date": "2024-09-30T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ca9b6898b278f3cdd27970"
+  },
+  "username": " Nguyen Ngan",
+  "email": "   Ngannguyen0904@gmail.com",
+  "password": "  ngan123",
+  "created_at": {
+    "$date": "2024-09-30T17:00:00.000Z"
+  }
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67c3c69ed95005141f869331"
+  },
+  "customer_id": "67c3baedd95005141f869311",
+  "product_id": "67c518f07a1f248a2cf7db86 ",
+  "total_item": 20,
+  "total_price": {
+    "$numberDecimal": "100.000"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c95fea98b278f3cdd27926"
+  },
+  "customer_id": "67c6bf524469254badc2a878",
+  "product_id": "67c52b747a1f248a2cf7dbf4",
+  "total_item": 20,
+  "total_price": {
+    "$numberDecimal": "350.000"
+  }
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "67c3baedd95005141f869311"
+  },
+  "first_name": " Quan",
+  "last_name": " lu Hong ",
+  "email": "luhongquan456@gmail.com",
+  "phone_number": "0933367899",
+  "address": "Nguyễn Văn Cừ , Quận Tân phú ",
+  "password": "Quan123",
+  "buying_points": 100,
+  "created_at": {
+    "$date": "2025-03-01T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5e27dfc3a04ed294342e1"
+  },
+  "first_name": " Quan",
+  "last_name": " Nguyen ",
+  "email": " trinhtranphuongtuan@gmail.com",
+  "phone_number": " 0977777789",
+  "address": "Nguyễn Văn Cừ , Quận Tân phú ",
+  "password": "677123",
+  "buying_points": 100,
+  "created_at": {
+    "$date": "2025-03-01T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c6bf524469254badc2a878"
+  },
+  "first_name": " Du",
+  "last_name": " Nguyen ",
+  "email": " trinhtranphuongHang@gmail.com",
+  "phone_number": " 0977777789",
+  "address": "Nguyễn Văn Cừ , Quận Tân phú ",
+  "password": "677123",
+  "buying_points": 100,
+  "created_at": {
+    "$date": "2025-03-01T17:00:00.000Z"
+  }
+}]

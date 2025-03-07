@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67c3be3dd95005141f869320"
+  },
+  "order_date": {
+    "$date": "2025-04-04T17:00:00.000Z"
+  },
+  "total_price": {
+    "$numberDecimal": "100.000"
+  },
+  "total_discount": {
+    "$numberDecimal": "0"
+  },
+  "total_amount": {
+    "$numberDecimal": "100.000"
+  },
+  "order_status": " Đã giao hàng",
+  "delivery_address": " Quận Tân Phú , Lê Trọng Tấn 124",
+  "customer_id ": "67c3baedd95005141f869311"
+},
+{
+  "_id": {
+    "$oid": "67c6bf834469254badc2a87f"
+  },
+  "order_date": {
+    "$date": "2024-02-04T17:00:00.000Z"
+  },
+  "total_price": {
+    "$numberDecimal": "400.000"
+  },
+  "total_discount": {
+    "$numberDecimal": "50.000"
+  },
+  "total_amount": {
+    "$numberDecimal": "350.000"
+  },
+  "order_status": " Đã giao hàng",
+  "delivery_address": "123 Hai Ba Trung Q1",
+  "customer_id ": "67c6bf524469254badc2a878"
+},
+{
+  "_id": {
+    "$oid": "67cae75e98b278f3cdd279ed"
+  },
+  "order_date": {
+    "$date": "2024-04-09T17:00:00.000Z"
+  },
+  "total_price": {
+    "$numberDecimal": "350.000"
+  },
+  "total_discount": {
+    "$numberDecimal": "50.000"
+  },
+  "total_amount": {
+    "$numberDecimal": "300.000"
+  },
+  "order_status": " Đã giao hàng",
+  "delivery_address": "Thảo Điền Q2",
+  "customer_id ": "67c6bf524469254badc2a878"
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67c3c5fcd95005141f86932f"
+  },
+  "order_id": "67c3be3dd95005141f869320",
+  "payment_method": "COD",
+  "payment_status": " Thanh toán thành công",
+  "payment_date": {
+    "$date": "2025-05-05T17:00:00.000Z"
+  },
+  "total_payment": {
+    "$numberDecimal": "80.000"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c6bf734469254badc2a87d"
+  },
+  "order_id": "67c6bf834469254badc2a87f",
+  "payment_method": " COD",
+  "payment_status": " Thanh toán thành công",
+  "payment_date": {
+    "$date": "2025-05-05T17:00:00.000Z"
+  },
+  "total_payment": {
+    "$numberDecimal": "80.000"
+  }
+}]

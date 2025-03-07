@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "67c3c033d95005141f869322"
+  },
+  "order_id": "67c3be3dd95005141f869320",
+  "product_id": "67c518f07a1f248a2cf7db86",
+  "quantity": 1,
+  "price": {
+    "$numberDecimal": "100.000"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5e809fc3a04ed29434331"
+  },
+  "order_id": "67c6bf834469254badc2a87f",
+  "product_id": "67c5199d7a1f248a2cf7db90",
+  "quantity": 2,
+  "price": {
+    "$numberDecimal": "700.000"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cae84098b278f3cdd279f5"
+  },
+  "order_id": "67cae75e98b278f3cdd279ed",
+  "product_id": "67c526ab7a1f248a2cf7dbde",
+  "quantity": 2,
+  "price": {
+    "$numberDecimal": "600.000"
+  }
+}]

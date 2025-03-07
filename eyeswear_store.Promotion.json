@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "67c3c6f8d95005141f869333"
+  },
+  "promotion_code": " ADJF",
+  "promotion_status": " Hết hạn",
+  "discount_percent ": {
+    "$numberDecimal": "0.10"
+  },
+  "start_date": {
+    "$date": "2024-08-05T17:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2026-05-07T17:00:00.000Z"
+  },
+  "min_order_value": {
+    "$numberDecimal": "0.05"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5e3d5fc3a04ed29434302"
+  },
+  "promotion_code": " ADdd",
+  "promotion_status": " Còn hạn",
+  "discount_percent ": {
+    "$numberDecimal": "0.10"
+  },
+  "start_date": {
+    "$date": "2024-08-05T17:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2026-05-07T17:00:00.000Z"
+  },
+  "min_order_value": {
+    "$numberDecimal": "0.05"
+  }
+}]
